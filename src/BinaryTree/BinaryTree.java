@@ -93,7 +93,7 @@ public class BinaryTree {
 		boolean rightnode=isTreeBalanced(root.right);
 		
 		return leftnode&&rightnode;
-	}
+	}	
 }
 
 
